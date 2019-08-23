@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DFT.AutomationFramework</id>
+    <version>2.0.0</version>
+    <authors>DFT</authors>
+    <owners>DFT</owners>
+    <licenseUrl>https://github.com/departmentfortransport/AutomationFramework</licenseUrl>
+    <projectUrl>https://github.com/departmentfortransport/AutomationFramework</projectUrl>
+    <iconUrl>https://github.com/</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DFT Automation Framework</description>
+    <releaseNotes>DFT Automation Framework (.Net Core)</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>DFT Automation Framework</tags>
+  </metadata>
+  <files>
+    <file src="bin\debug\Automation.dll" target="lib" />
+  </files>
+</package>
